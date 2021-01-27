@@ -1,29 +1,29 @@
-# Intro
-Welcome to the Craftwork cheat sheet! This page has everything you need to make it through the Craftwork workshop. If you don't see the next step, or you have questions that aren't answered by the [FAQ](workshop/FAQ.md), don't be afraid to raise your hand and ask us!
+# Introducción
+¡Bienvenid@ a la guía de Craftwork! Ésta página tiene todo loq eu necesitarás para adentrarte en el taller de Craftwork. Si no puedes visualizar algún paso o tienes alguna duda que no ha sido respondida, pregunta por medio de [Preguntas Frecuentes](workshop/FAQ.md), ¡No tengas miedo de levantar la mano y preguntar!
 
-If you are viewing this as part of a workshop, here is a [link to the slides](https://drive.google.com/file/d/18AIorSzf-h6JpZh0nXUg_wQzhCh7llE4/view?usp=sharing).
+Si estás veindo ésta parte como parte con relación al workshop, aquí está el link [link to the slides](https://drive.google.com/file/d/18AIorSzf-h6JpZh0nXUg_wQzhCh7llE4/view?usp=sharing).
 
 
-## Part 0: Join the org
+## Parte 0: Aádete a la org
 
-In order for you to get access to the [GitHub Actions](https://github.com/features/actions) and follow along, you will need to join the [github-craftwork](https://github.com/github-craftwork) organization. Coincidently we have written some automation to make that work. 
+Primeramente para acceder a [GitHub Actions](https://github.com/features/actions) y continuar, necesitarás unirte a la organización [github-craftwork](https://github.com/github-craftwork). Coincidentemente escribimos una automatización que hará el trabajo. 
 
-Invite yourself to the organization by typing  `.invite me` in [this issue](https://github.com/github-craftwork/start-here/issues/100).
+Añádete tu mismo a la organización, solo necesitar escribir `.invite me` en [este fallo](https://github.com/github-craftwork/start-here/issues/100).
 
-Once you have submitted your comment, head over to the [Actions tab](https://github.com/github-craftwork/start-here/actions?workflow=Invite+a+contributor) for the the repo to find action triggered by your comment. 
+Una vez qeu envíes tu comentario, echa un vistaso a la [pestaña de Actions](https://github.com/github-craftwork/start-here/actions?workflow=Invite+a+contributor) visualizazarás que una acción con tu nombre se encuentra trabajando. 
 
-Note that  this could take up to 30 seconds to show. Also be sure to check your email for that invite.
+Ten en cuenta que puede tomar hasta 30 segundos en mostrarse. Revisa tu correo electrónico y verás la invitación.
 
 ![](https://paper-attachments.dropbox.com/s_CDDCC4EC3C7C8C14E8A73684CA9909721C965A1258B4380D90B28E1A4E030470_1569470503869_Screenshot+2019-09-25+21.01.27.png)
 
 ----------
 
-## Part 0a: Open a PR
+## Parte 0a: Abrir un PR
 
-Now that you are in the org you can make a PR that adds your self to the [attendee.txt](attendees.txt). The PR should automatically close thanks to another action created. 
+Ahora que ya eres parte de la organización, realiza una Petición para añadirte a la lista de asistentes [attendee.txt](attendees.txt). Al realizar el PR una acción cerrará el mismo gracias a una acción que creamos.
 
-Try to figure how all that worked while we wait for the rest of the group to join the organization.
+Por ahora meintras esperamos en lo que se une todo el grupo a la organización, piensa como es que toda esa magia sucedió.
 
-Once you have pontificated enough, compare your thoughts with this explanation — clink the link below for the explanation here.
+Una vez que ya tienes tus conclusiones, compara tus concluciones con la explicación – da click al link inferior para la explicación.
 
-[See Explanation](workshop/part0-explanation.md) or [start part 1 of this tutorial](workshop/part1-hello-world.md)
+[Ver Explicación](workshop/part0-explanation.md) o [iniciar parte 1 de este tutorial](workshop/part1-hello-world.md)
